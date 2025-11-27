@@ -6,13 +6,10 @@ The database schema supports operations management, logistics tracking, customer
 The tables have been populated with dummy data to simulate real-world scenarios and to facilitate testing and development. 
 An accompanying SQL script is provided to create the schema and populate the tables with this sample data. 
 
-Features
-Core Entities: Products, Brands, Categories, Customers, Stores, Employees, Vendors.
+Features:
 
-Transactions: Orders, Sales, Purchases, Inventory movements, Service requests.
-
-Relationships: Junction tables for many-to-many links (e.g., Inventory-Purchases, Stores-Customers).
-
-Key Fields: Stock quantities, transaction amounts, customer loyalty points, supply dates, employee assignments.​
-
-Constraints: ENUMs for status/availability, indexes for performance on IDs and dates
+- Core Entities: Products, Brands, Categories, Customers, Stores, Employees, Vendors.
+- Transactions: Orders, Sales, Purchases, Inventory movements, Service requests.
+- Relationships: Junction tables for many-to-many links (e.g., Inventory-Purchases, Stores-Customers).
+- Key Fields: Stock quantities, transaction amounts, customer loyalty points, supply dates, employee assignments.​
+- Constraints: ENUMs for status/availability, indexes for performance on IDs and dates
