@@ -1,9 +1,3 @@
-Group 5
-section B
-1. Vaisshnava Laksmi K S - 341115
-2. Bidisha Kalita - 341072
-3. Kinkini Majumder - 341084
-
 Croma Database Model
 
 This repository contains the database model designed for Croma, a comprehensive retail company database system. 
